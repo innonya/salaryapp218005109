@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Teacher\\Desktop\\salaryapp\\salaryapp\\salaryapp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Teacher\\Desktop\\salaryapp\\salaryapp\\salaryapp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Teacher\\Desktop\\salaryapp\\salaryapp\\salaryapp.csproj",
+        "projectName": "salaryapp",
+        "projectPath": "C:\\Users\\Teacher\\Desktop\\salaryapp\\salaryapp\\salaryapp.csproj",
+        "packagesPath": "C:\\Users\\Teacher\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Teacher\\Desktop\\salaryapp\\salaryapp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Teacher\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
